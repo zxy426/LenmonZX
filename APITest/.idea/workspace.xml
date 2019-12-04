@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84b98028-ec23-46e7-b55a-2480cc2e3610" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="APITest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/handle_re.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/handle_re.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/qcd_register_api.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_register_api.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/handle_parameterize.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$9/handle_re.py" />
+        <option value="$PROJECT_DIR$/Interface/1.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/1.py" />
+        <option value="$PROJECT_DIR$/Interface/configs/register.yaml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$4/handle_mysql.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/handle_user.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$5/handle_user.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/test_03_recharge.py" />
+        <option value="$PROJECT_DIR$/Interface/logs/testcase.log" />
+        <option value="$PROJECT_DIR$/Interface/run/run_suitcase.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testcd_04_add.py" />
+        <option value="$PROJECT_DIR$/Interface/configs/api.yaml" />
+        <option value="$PROJECT_DIR$/Interface/scripts/handle_oracle.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_01_register.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_02_login.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_03_rechargd.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_04_add.py" />
+        <option value="$PROJECT_DIR$/Interface/cases/testqcd_05_invest.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/hand_re.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/handle_Parameterization.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/MyLogger.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/MyRequest.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/Mysql_mobileCX.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/MyYuml.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/Read_excel_obj.py" />
+        <option value="$PROJECT_DIR$/Interface/scripts/user.py" />
+        <option value="$PROJECT_DIR$/Interface/run_suitcase.py" />
+        <option value="$PROJECT_DIR$/Interface/readpath/handle_path.py" />
+        <option value="$PROJECT_DIR$/cases/testqcd_02_login.py" />
+        <option value="$PROJECT_DIR$/cases/testqcd_03_rechargd.py" />
+        <option value="$PROJECT_DIR$/cases/testqcd_04_add.py" />
+        <option value="$PROJECT_DIR$/cases/testqcd_05_invest.py" />
+        <option value="$PROJECT_DIR$/run_suitcase.py" />
+        <option value="$PROJECT_DIR$/scripts/hand_re.py" />
+        <option value="$PROJECT_DIR$/scripts/handle_Parameterization.py" />
+        <option value="$PROJECT_DIR$/scripts/Mysql_mobileCX.py" />
+        <option value="$PROJECT_DIR$/scripts/MyYuml.py" />
+        <option value="$PROJECT_DIR$/scripts/Read_excel_obj.py" />
+        <option value="$PROJECT_DIR$/scripts/user.py" />
+        <option value="$PROJECT_DIR$/cases/testqcd_01_register.py" />
+        <option value="$PROJECT_DIR$/logs/testcase.log" />
+        <option value="$PROJECT_DIR$/scripts/MyLogger.py" />
+        <option value="G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/scripts/handle_log.py" />
+        <option value="$PROJECT_DIR$/Mock/mock_demo.py" />
+        <option value="$PROJECT_DIR$/Mock/payment.py" />
+        <option value="$PROJECT_DIR$/Mock/test_pay.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="APITest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APITest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/datas" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\py37\APITest\datas" />
+      <recent name="E:\py37\APITest" />
+      <recent name="E:\py37\APITest\scripts" />
+      <recent name="E:\py37\APITest\Interface\datas" />
+      <recent name="E:\py37\APITest\Interface\configs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py37\APITest\Interface" />
+      <recent name="E:\py37\APITest\Interface\cases" />
+      <recent name="E:\py37\APITest\Interface\scripts" />
+      <recent name="E:\py37\APITest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in testqcd_03_rechargd.py">
+    <configuration name="Read_excel_obj" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Read_excel_obj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_suitcase (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_suitcase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_pay.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="APITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Mock/test_pay.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testqcd_01_register.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="APITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/testqcd_01_register.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testqcd_03_rechargd.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="APITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/testqcd_03_rechargd.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in testqcd_03_rechargd.py" />
+        <item itemvalue="Python.run_suitcase (2)" />
+        <item itemvalue="Python tests.Unittests in test_pay.py" />
+        <item itemvalue="Python tests.Unittests in testqcd_01_register.py" />
+        <item itemvalue="Python.Read_excel_obj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84b98028-ec23-46e7-b55a-2480cc2e3610" name="Default Changelist" comment="" />
+      <created>1573972591717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573972591717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_testqcd_05_invest_py - 2019.11.26 at 17h 22m 59s.xml">
+      <configuration name="Unittests in testqcd_05_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_05_invest_py - 2019.11.26 at 17h 23m 49s.xml">
+      <configuration name="Unittests in testqcd_05_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.29 at 15h 57m 06s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.29 at 16h 00m 05s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.30 at 19h 14m 00s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.30 at 19h 19m 56s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.30 at 19h 22m 00s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testqcd_01_register_py - 2019.11.30 at 19h 23m 18s.xml">
+      <configuration name="Unittests in testqcd_01_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_pay_py - 2019.12.02 at 11h 14m 51s.xml">
+      <configuration name="Unittests in test_pay.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_pay_py - 2019.12.02 at 11h 15m 23s.xml">
+      <configuration name="Unittests in test_pay.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49868074" visible="true" weight="0.21735905" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5013193" side_tool="true" weight="0.16443452" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3445122" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3627451" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22058824" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49868074" visible="true" weight="0.16443452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5013193" side_tool="true" weight="0.16443452" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4248366" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36928105" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/handle_log.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$5/handle_user.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/scripts/handle_parameterize.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Parameterization.parmse_all(cases.datas)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>register_res.json()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>do_yuml.read_yuml('mysql','host')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Interface/configs/api.yaml" />
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/scripts/handle_parameterize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="94" column="53" lean-forward="true" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+          <folding>
+            <element signature="e#326#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/cases/test_05_invest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1201333238/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="521" column="4" selection-start-line="521" selection-start-column="4" selection-end-line="521" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/handle_params.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/test_E_invest.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/handle_oracle.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/cases/testqcd_01_register.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/cases/testqcd_02_login.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/cases/testqcd_03_rechargd.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/cases/testqcd_04_add.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/cases/testqcd_05_invest.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/readpath/handle_path.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/hand_re.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/user.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/Read_excel_obj.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/MyYuml.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/Mysql_mobileCX.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/MyRequest.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/MyLogger.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/scripts/handle_Parameterization.py" />
+    <entry file="file://$PROJECT_DIR$/Interface/run_suitcase.py" />
+    <entry file="file://$PROJECT_DIR$/cases/testqcd_02_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/testqcd_03_rechargd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/testqcd_04_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/testqcd_05_invest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/hand_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/handle_Parameterization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/MyRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <folding>
+            <element signature="e#520#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Mysql_mobileCX.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/MyYuml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Read_excel_obj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#38#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readpath/handle_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/handle_sign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/handle_sign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <folding>
+            <element signature="e#318#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mock/lemon_01_first_mock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195" />
+      </provider>
+    </entry>
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-852">
+          <folding>
+            <element signature="e#313#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/cases/test_02_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1140">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/cases/test_01_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/testqcd_01_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="60" column="80" lean-forward="true" selection-start-line="60" selection-start-column="80" selection-end-line="60" selection-end-column="80" />
+          <folding>
+            <element signature="e#40#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/testcase.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/Lemon/柠檬Python/接口/27整个接口完成/20191123_LemonAPITest/scripts/handle_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#142#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/MyLogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/user.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_suitcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#38#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/api.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mock/mock_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mock/test_pay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="52" column="49" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="52" selection-end-column="49" />
+          <folding>
+            <element signature="e#314#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mock/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+          <folding>
+            <element signature="e#313#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

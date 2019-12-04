@@ -1,0 +1,36 @@
+excel:
+  case_path: apicases.xlsx
+  case_result: 7
+  result: 8
+msg:
+  success_result: '通过'
+  fail_result: '不通过'
+report:
+  report_name: rt
+  title: "接口测试整合版"
+  description: "读取配置来操作代码"
+  tester: "小A"
+log:
+  logname: mylog
+  log_Level: DEBUG
+  log_format: '%(asctime)s - [%(filename)s-->line:%(lineno)d] - %(levelname)s: %(message)s'
+  log_Filename: testcase.log
+  FilenameLevel: DEBUG
+  Steram_Level: DEBUG
+
+
+mysql:
+  host: 'api.lemonban.com'
+  user: 'future'
+  password: '123456'
+  db: 'futureloan'
+  port: 3306
+  sql: "SELECT * FROM member WHERE mobile_phone = %s ;"
+  userid: "SELECT id FROM member WHERE mobile_phone = %s ;"
+
+
+request:
+  url: 'http://api.lemonban.com/futureloan'
+  version: {"X-Lemonban-Media-Type":"lemonban.v2","Content-Type":"application/json"}
+
+
